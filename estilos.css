@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Pacifico', cursive;
+ }
+
+ p {
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+ }
+ 
+ .barra {
+   background-color: black;
+}
+
+.barra ul {
+   list-style: none;
+}   
+
+.barra ul li {
+   display: inline-block;
+}
+
+.barra ul li a {
+   text-decoration: none;
+   display: block;
+   color: white;
+   padding: 20px;
+}
+
+.barra ul li a:hover {
+   background-color: turquoise;
+}
